@@ -1,2 +1,2 @@
 # movieworkz
-Free movis/tv shows for at school
+Free movies/tv shows.
